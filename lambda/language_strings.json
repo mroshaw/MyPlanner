@@ -1,0 +1,97 @@
+{
+  "en": {
+    "SKILL_NAME": "My Planner",
+    "WELCOME": "Welcome to My Planner. You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "HELP": "You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "GOODBYE": "Goodbye!",
+    "TASK_CREATED": "Okay. I've created the task with ID",
+    "TASK_COUNT_1": "You have",
+    "TASK_COUNT_2": "items in your to do list.",
+    "TASK_LIST": "Here are the items on your to do list: ",
+    "ERROR_UNKNOWN": "Sorry, there has been a problem adding your task. Please try again or unlink and relink your account",
+    "ERROR_NOT_LINKED": "Sorry, you must link your account to Jira to use this task."
+  },
+  "de": {
+    "SKILL_NAME": "My Planner",
+    "WELCOME": "Welcome to My Planner. You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "HELP": "You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "GOODBYE": "Goodbye!",
+    "TASK_CREATED": "Okay. I've created the task with ID",
+    "TASK_COUNT_1": "You have",
+    "TASK_COUNT_2": "items in your to do list.",
+    "TASK_LIST": "Here are the items on your to do list: ",
+    "ERROR_UNKNOWN": "Sorry, there has been a problem adding your task. Please try again or unlink and relink your account",
+    "ERROR_NOT_LINKED": "Sorry, you must link your account to Jira to use this task."
+  },
+  "es": {
+    "SKILL_NAME": "My Planner",
+    "WELCOME": "Welcome to My Planner. You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "HELP": "You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "GOODBYE": "Goodbye!",
+    "TASK_CREATED": "Okay. I've created the task with ID",
+    "TASK_COUNT_1": "You have",
+    "TASK_COUNT_2": "items in your to do list.",
+    "TASK_LIST": "Here are the items on your to do list: ",
+    "ERROR_UNKNOWN": "Sorry, there has been a problem adding your task. Please try again or unlink and relink your account",
+    "ERROR_NOT_LINKED": "Sorry, you must link your account to Jira to use this task."
+  },
+  "fr": {
+    "SKILL_NAME": "My Planner",
+    "WELCOME": "Welcome to My Planner. You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "HELP": "You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "GOODBYE": "Goodbye!",
+    "TASK_CREATED": "Okay. I've created the task with ID",
+    "TASK_COUNT_1": "You have",
+    "TASK_COUNT_2": "items in your to do list.",
+    "TASK_LIST": "Here are the items on your to do list: ",
+    "ERROR_UNKNOWN": "Sorry, there has been a problem adding your task. Please try again or unlink and relink your account",
+    "ERROR_NOT_LINKED": "Sorry, you must link your account to Jira to use this task."
+  },
+  "hi": {
+    "SKILL_NAME": "My Planner",
+    "WELCOME": "Welcome to My Planner. You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "HELP": "You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "GOODBYE": "Goodbye!",
+    "TASK_CREATED": "Okay. I've created the task with ID",
+    "TASK_COUNT_1": "You have",
+    "TASK_COUNT_2": "items in your to do list.",
+    "TASK_LIST": "Here are the items on your to do list: ",
+    "ERROR_UNKNOWN": "Sorry, there has been a problem adding your task. Please try again or unlink and relink your account",
+    "ERROR_NOT_LINKED": "Sorry, you must link your account to Jira to use this task."
+  },
+  "it": {
+    "SKILL_NAME": "My Planner",
+    "WELCOME": "Welcome to My Planner. You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "HELP": "You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "GOODBYE": "Goodbye!",
+    "TASK_CREATED": "Okay. I've created the task with ID",
+    "TASK_COUNT_1": "You have",
+    "TASK_COUNT_2": "items in your to do list.",
+    "TASK_LIST": "Here are the items on your to do list: ",
+    "ERROR_UNKNOWN": "Sorry, there has been a problem adding your task. Please try again or unlink and relink your account",
+    "ERROR_NOT_LINKED": "Sorry, you must link your account to Jira to use this task."
+  },
+  "ja": {
+    "SKILL_NAME": "My Planner",
+    "WELCOME": "Welcome to My Planner. You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "HELP": "You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "GOODBYE": "Goodbye!",
+    "TASK_CREATED": "Okay. I've created the task with ID",
+    "TASK_COUNT_1": "You have",
+    "TASK_COUNT_2": "items in your to do list.",
+    "TASK_LIST": "Here are the items on your to do list: ",
+    "ERROR_UNKNOWN": "Sorry, there has been a problem adding your task. Please try again or unlink and relink your account",
+    "ERROR_NOT_LINKED": "Sorry, you must link your account to Jira to use this task."  },
+  "pt": {
+    "SKILL_NAME": "My Planner",
+    "WELCOME": "Welcome to My Planner. You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "HELP": "You can say: 'add a task' or 'how many tasks' or 'what are my tasks'",
+    "GOODBYE": "Goodbye!",
+    "TASK_CREATED": "Okay. I've created the task with ID",
+    "TASK_COUNT_1": "You have",
+    "TASK_COUNT_2": "items in your to do list.",
+    "TASK_LIST": "Here are the items on your to do list: ",
+    "ERROR_UNKNOWN": "Sorry, there has been a problem adding your task. Please try again or unlink and relink your account",
+    "ERROR_NOT_LINKED": "Sorry, you must link your account to Jira to use this task."
+  }
+}
